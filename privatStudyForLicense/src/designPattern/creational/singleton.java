@@ -1,4 +1,4 @@
-package designPattern;
+package designPattern.creational;
 
 //싱글톤: 클래스의 인스턴스가 단 하나임을 보장하면서 해당 인스턴르소의 접근 방법을 제공하는 패턴. 생성 패턴에 속함
 public class singleton {

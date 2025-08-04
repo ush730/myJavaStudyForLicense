@@ -1,6 +1,6 @@
 
 //팩토리 메소드(Factory Method): 인스턴스 생성과 관련된 결정을 서브클래스가 하도록 해서 객체 생성의 유연성을 극대화하는 생성 패턴
-package designPattern;
+package designPattern.creational;
 
 public class factory {
 	
